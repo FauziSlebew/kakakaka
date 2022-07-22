@@ -3,7 +3,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['6283893345561','6283893345561']
+global.owner = ['6285326569399','6283893345561']
 global.packname = 'ZanzHost'
 global.author = 'ZanzXCode'
 global.sessionName = 'zanz'
